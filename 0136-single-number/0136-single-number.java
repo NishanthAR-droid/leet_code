@@ -6,9 +6,4 @@ class Solution {
         return sum;
     }
     
-    public static void main(String[] args)
-    {
-        int[] nums={2,2,1};
-        singleNumber(nums);
-    }
 }
