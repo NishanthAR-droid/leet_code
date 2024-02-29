@@ -11,14 +11,24 @@
 class Solution {
     public ListNode middleNode(ListNode head) {
         
-        ArrayList<ListNode> vals=new ArrayList<>(); 
-        int length=0;
-        while(head!=null)
+        ListNode end=head;
+        ListNode middle=head;
+        while(end!=null && end.next!=null)
         {
-            vals.add(head);
-            length++;
-            head=head.next;
+            middle=middle.next;
+            end=end.next.next;
         }
-       return vals.get(length/2);               
+        return middle;
+        
+//        Array `solution 
+       //  ArrayList<ListNode> vals=new ArrayList<>(); 
+       //  int length=0;
+       //  while(head!=null)
+       //  {
+       //      vals.add(head);
+       //      length++;
+       //      head=head.next;
+       //  }
+       // return vals.get(length/2);               
     }
 }
