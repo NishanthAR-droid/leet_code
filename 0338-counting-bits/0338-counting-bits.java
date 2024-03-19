@@ -25,7 +25,7 @@ class Solution {
         
         for(int i=1;i<=n;i++)
         {
-            ans[i]=ans[i>>1]+(i&1);
+            ans[i]=ans[i>>1]+(i&1);  //can also be ans[i/2] as >>1 is same as /2
         }
         
         return ans;
