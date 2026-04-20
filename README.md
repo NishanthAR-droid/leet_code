@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/NishanthAR-droid/leet_code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/NishanthAR-droid/leet_code/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -19,4 +20,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NishanthAR-droid/leet_code/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/NishanthAR-droid/leet_code/tree/main/0088-merge-sorted-array/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/NishanthAR-droid/leet_code/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
